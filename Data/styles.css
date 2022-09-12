@@ -1,0 +1,15 @@
+.alineacion{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.color{
+
+    color: #1f2636;
+}
+.otro{
+    color: green;
+    font-size: 70px;
+}
